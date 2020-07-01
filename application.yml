@@ -5,3 +5,6 @@
 ---
 spring:
   profiles: dev
+---
+spring:
+  profiles: dev
